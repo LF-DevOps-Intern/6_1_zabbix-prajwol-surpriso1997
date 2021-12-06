@@ -21,6 +21,8 @@ Tasks:
 - Database config parameter in server config file
 - Server Dashboard
 
+  [Answer](https://github.com/surpriso1997/6_1_ZABBIX-Prajwol/tree/main/2)
+
 3. Install Latest Zabbix Agent on VM or host machine or server itself to fetch logs, steps include:
 
 - Run as active check agent
@@ -31,6 +33,8 @@ Tasks:
 - Provide agent configuration file & screenshots for target machine graph & logs
 
 * Please check shared slides for any reference \*
+
+[Answer](https://github.com/surpriso1997/6_1_ZABBIX-Prajwol/tree/main/3)
 
 Sample agent config for passive checks on Ubuntu
 
